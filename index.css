@@ -549,6 +549,7 @@
 .enim-sed-faucibus {
   align-self: stretch;
   height: 112px;
+  line-height: normal;
   position: relative;
   font-weight: 300;
   white-space: pre-wrap;
@@ -603,6 +604,7 @@
 .lectus-urna-duis {
   align-self: stretch;
   height: 140px;
+  line-height: normal;
   position: relative;
   font-weight: 300;
   white-space: pre-wrap;
@@ -1755,6 +1757,7 @@
   .buildsphere,
   .enim-sed-faucibus,
   .lectus-urna-duis,
+  
   .mode-apps,
   .scraps-mode,
   .sit-amet-mauris {
