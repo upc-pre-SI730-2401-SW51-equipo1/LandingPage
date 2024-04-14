@@ -34,6 +34,10 @@
   display: inline-block;
   white-space: nowrap;
 }
+.testimonios a, .contact-us a, .nuestros-planes a {
+  color: black;
+  text-decoration: none;
+}
 .testimonios-container {
   width: 273.5px;
   display: flex;
@@ -43,6 +47,7 @@
   padding: var(--padding-7xl) var(--padding-xl) 0 0;
   box-sizing: border-box;
   color: var(--color-gray-100);
+  color: #000;
 }
 .nuestros-proyectos {
   width: 213px;
